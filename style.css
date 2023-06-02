@@ -1,0 +1,25 @@
+.heze {}
+
+body {
+    background-color: crimson;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+    font-weight: bold;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+}
+img{
+    width: 30%;
+    border-radius: 20px;
+    padding: 20px;
+}
+img:hover{
+    border-radius: 150px;
+}
